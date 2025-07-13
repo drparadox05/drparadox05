@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dr. Paradox!</h1>
 
-<!--
-**drparadox05/drparadox05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently building:
+- A tool to Protect your Smart Contract Proxy from storage collisions upon upgrading, by running this action in a CI on each of your Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning:
+- ZK cryptography, distributed systems design, Solana dev
+
+🔧 Tech Stack:
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-gray?style=flat&logo=solidity)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+💬 Ask me about:
+- DeFi
+- Zk proofs
+- Ethereum
+
+📫 How to reach me:
+- [Twitter](https://x.com/DrParadox05)
+
+
+---
